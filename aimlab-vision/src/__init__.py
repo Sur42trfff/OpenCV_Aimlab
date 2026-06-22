@@ -1,1 +1,0 @@
-# Aim Lab vision assistant
